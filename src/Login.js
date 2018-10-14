@@ -19,7 +19,7 @@ render() {
         <MuiThemeProvider>
           <div>
           <AppBar
-             title="Login"
+             title="Discover Talent Acquisition Login"
            />
            <TextField
              hintText="Enter your Username"
